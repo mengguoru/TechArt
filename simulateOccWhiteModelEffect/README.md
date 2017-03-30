@@ -1,4 +1,4 @@
 # result
 
-![screenshot](.\screenshot.PNG)
+![screenshot](./screenshot.PNG)
 
